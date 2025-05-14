@@ -1,5 +1,5 @@
 {
-	"name": "Load_Blob_ASQL_Pipeline_copy1",
+	"name": "Load_Blob_Blob_Pipeline",
 	"properties": {
 		"activities": [
 			{
